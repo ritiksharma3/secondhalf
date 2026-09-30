@@ -1,0 +1,392 @@
+{"query": "Give me something I can do with my grandson for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my grandson for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my grandson for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandson for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandson for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandson for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my granddaughter for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my grandchildren for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my daughter for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my daughter for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my daughter for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my daughter for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my daughter for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my daughter for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my son for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my son for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my son for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my son for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my son for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my son for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for 15 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for 20 minutes.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for 30 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for 45 minutes.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for an hour.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "Give me something I can do with my niece and nephew for a couple of hours.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend 15 minutes with my grandson.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my grandson.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my grandson.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 45 minutes with my grandson.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend an hour with my grandson.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend a couple of hours with my grandson.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend 15 minutes with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 45 minutes with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend an hour with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend a couple of hours with my granddaughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 15 minutes with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 45 minutes with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend an hour with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend a couple of hours with my grandchildren.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend 15 minutes with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 45 minutes with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend an hour with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend a couple of hours with my daughter.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 15 minutes with my son.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my son.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my son.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 45 minutes with my son.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend an hour with my son.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend a couple of hours with my son.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend 15 minutes with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 20 minutes with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "low", "social": "high"}
+{"query": "I want to spend 30 minutes with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend 45 minutes with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend an hour with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I want to spend a couple of hours with my niece and nephew.", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my grandson this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my granddaughter this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my grandchildren this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my daughter this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my son this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "What's a good activity to do with my niece and nephew this weekend?", "intent": "family_activity", "category": "family", "energy": "medium", "social": "high"}
+{"query": "I have 15 minutes and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I have 20 minutes and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I have 30 minutes and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I have 45 minutes and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I have an hour and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I have a couple of hours and want to do something useful at home.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have 15 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have 20 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have 30 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have 45 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have an hour.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to fix or organize something around the house, I have a couple of hours.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Give me a productive task I can finish in 15 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a productive task I can finish in 20 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a productive task I can finish in 30 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a productive task I can finish in 45 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Give me a productive task I can finish in an hour.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a productive task I can finish in a couple of hours.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to learn something new today.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in 15 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in 30 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in 45 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in an hour.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "Teach me something in a couple of hours.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have 15 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have 30 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have 45 minutes.", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have an hour.", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'd like to pick up a new skill, I have a couple of hours.", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in an hour?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about history, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about a new language, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about science, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about cooking, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm curious about technology, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm curious about gardening, what can I do about it in a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I want something social to do, I have 15 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I want something social to do, I have 20 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I want something social to do, I have 30 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I want something social to do, I have 45 minutes.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I want something social to do, I have an hour.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I want something social to do, I have a couple of hours.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have 15 minutes free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have 20 minutes free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have 30 minutes free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have 45 minutes free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have an hour free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'd like to meet or talk to people, I have a couple of hours free.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for 15 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for 20 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for 30 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for 45 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for an hour.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling lonely and want some company for a couple of hours.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I want to help someone today.", "intent": "help_others", "category": "contribute", "energy": "medium", "social": "medium"}
+{"query": "I have 15 minutes and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "low"}
+{"query": "I have 20 minutes and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "I have 30 minutes and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "low"}
+{"query": "I have 45 minutes and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "I have an hour and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "high"}
+{"query": "I have a couple of hours and want to volunteer or do something for the community.", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "How can I contribute to my neighbourhood in 15 minutes?", "intent": "help_others", "category": "contribute", "energy": "low", "social": "low"}
+{"query": "How can I contribute to my neighbourhood in 20 minutes?", "intent": "help_others", "category": "contribute", "energy": "low", "social": "low"}
+{"query": "How can I contribute to my neighbourhood in 30 minutes?", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "How can I contribute to my neighbourhood in 45 minutes?", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "How can I contribute to my neighbourhood in an hour?", "intent": "help_others", "category": "contribute", "energy": "low", "social": "medium"}
+{"query": "How can I contribute to my neighbourhood in a couple of hours?", "intent": "help_others", "category": "contribute", "energy": "medium", "social": "medium"}
+{"query": "I feel tired today and don't want to go outside.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, 30 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, 45 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, an hour.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm low on energy but still want to do something meaningful, a couple of hours.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for 15 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for 20 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for 30 minutes?", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for 45 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for an hour?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I don't feel like moving much today, what can I do at home for a couple of hours?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want to go outside and get some fresh air, 15 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "low", "social": "low"}
+{"query": "I want to go outside and get some fresh air, 20 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "low", "social": "low"}
+{"query": "I want to go outside and get some fresh air, 30 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "low", "social": "low"}
+{"query": "I want to go outside and get some fresh air, 45 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want to go outside and get some fresh air, an hour.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "low", "social": "low"}
+{"query": "I want to go outside and get some fresh air, a couple of hours.", "intent": "relax_and_reflect", "category": "physical_outdoor", "energy": "low", "social": "low"}
+{"query": "I feel energetic today, give me something active outdoors.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "high", "social": "low"}
+{"query": "I want a physical activity I can do outside in 15 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want a physical activity I can do outside in 20 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want a physical activity I can do outside in 30 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want a physical activity I can do outside in 45 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want a physical activity I can do outside in an hour.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I want a physical activity I can do outside in a couple of hours.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I have 15 minutes and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I have 20 minutes and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I have 30 minutes and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I have 45 minutes and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I have an hour and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I have a couple of hours and want to create something with my hands.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I feel like making or building something today.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "Give me a creative project for 15 minutes.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "Give me a creative project for 20 minutes.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "Give me a creative project for 30 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "Give me a creative project for 45 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "Give me a creative project for an hour.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "Give me a creative project for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I want to look back on old memories today.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have 15 minutes and want to organize or revisit old photos.", "intent": "photo_organization", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have 20 minutes and want to organize or revisit old photos.", "intent": "photo_organization", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have 30 minutes and want to organize or revisit old photos.", "intent": "photo_organization", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have 45 minutes and want to organize or revisit old photos.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have an hour and want to organize or revisit old photos.", "intent": "photo_organization", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I have a couple of hours and want to organize or revisit old photos.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, 15 minutes.", "intent": "memory_journal", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, 20 minutes.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, 30 minutes.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, 45 minutes.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, an hour.", "intent": "write_memories", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'd like to write down some memories from my life, a couple of hours.", "intent": "write_memories", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, 20 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, 30 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, 45 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, an hour.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want some quiet time to reflect, a couple of hours.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for 20 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for 30 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for 45 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for an hour.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I need to relax and clear my head for a couple of hours.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I want to do something peaceful and calm today.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I enjoy gardening but I did it yesterday, what else can I do?", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have 15 minutes free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have 20 minutes free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have 30 minutes free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have 45 minutes free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have an hour free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I have a couple of hours free for a hobby I already enjoy.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for 15 minutes, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for 20 minutes, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for 30 minutes, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for 45 minutes, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for an hour, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "Suggest something fun for a couple of hours, nothing too serious.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for 15 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for 20 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for 30 minutes?", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for 45 minutes?", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for an hour?", "intent": "productive_activity", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I already went for a walk this morning, what else can I do for a couple of hours?", "intent": "productive_activity", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for 15 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for 20 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for 30 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for 45 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for an hour.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I don't want to repeat what I did yesterday, give me something for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for 15 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for 15 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for 15 minutes.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for 15 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for 15 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for 15 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for 20 minutes.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for 20 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for 20 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for 20 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for 30 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for 30 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for 30 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for 30 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for 30 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for 30 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for 45 minutes.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for an hour.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for an hour.", "intent": "productive_activity", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for an hour.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for an hour.", "intent": "creative_project", "category": "hobbies", "energy": "low", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for an hour.", "intent": "creative_project", "category": "create", "energy": "low", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for an hour.", "intent": "productive_activity", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy history but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy a new language but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy science but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I enjoy cooking but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy technology but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I enjoy gardening but did it yesterday, suggest something else for a couple of hours.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "Something needs fixing around the house, I have 15 minutes, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Something needs fixing around the house, I have 20 minutes, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Something needs fixing around the house, I have 30 minutes, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Something needs fixing around the house, I have 45 minutes, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Something needs fixing around the house, I have an hour, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Something needs fixing around the house, I have a couple of hours, what should I tackle?", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to tidy up and organize for 15 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I want to tidy up and organize for 20 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I want to tidy up and organize for 30 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "I want to tidy up and organize for 45 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to tidy up and organize for an hour.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I want to tidy up and organize for a couple of hours.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Give me a small home-improvement task for 15 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a small home-improvement task for 20 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a small home-improvement task for 30 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "low", "social": "low"}
+{"query": "Give me a small home-improvement task for 45 minutes.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Give me a small home-improvement task for an hour.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "Give me a small home-improvement task for a couple of hours.", "intent": "productive_activity", "category": "practical_useful", "energy": "medium", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for 15 minutes.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for 15 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for 15 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for 15 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for 20 minutes.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for 20 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for 20 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for 20 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for 20 minutes.", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for 20 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for 30 minutes.", "intent": "memory", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for 30 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for 30 minutes.", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for 30 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for 30 minutes.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for 30 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for 45 minutes.", "intent": "memory_activity", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for 45 minutes.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for 45 minutes.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for 45 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for 45 minutes.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for 45 minutes.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for an hour.", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for an hour.", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for an hour.", "intent": "creative_project", "category": "hobbies", "energy": "medium", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for an hour.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for an hour.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for an hour.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling nostalgic today, suggest something for a couple of hours.", "intent": "memory_activity", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm feeling curious today, suggest something for a couple of hours.", "intent": "learn_something", "category": "learn", "energy": "medium", "social": "low"}
+{"query": "I'm feeling restless today, suggest something for a couple of hours.", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I'm feeling peaceful today, suggest something for a couple of hours.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm feeling sociable today, suggest something for a couple of hours.", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm feeling reflective today, suggest something for a couple of hours.", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for 15 minutes?", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for 15 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for 15 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for 15 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for 15 minutes?", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for 15 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for 20 minutes?", "intent": "memory", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for 20 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for 20 minutes?", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for 20 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for 20 minutes?", "intent": "social_connection", "category": "connect", "energy": "low", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for 20 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for 30 minutes?", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for 30 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for 30 minutes?", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for 30 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for 30 minutes?", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for 30 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for 45 minutes?", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for 45 minutes?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for 45 minutes?", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for 45 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for 45 minutes?", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for 45 minutes?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for an hour?", "intent": "relax_and_reflect", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for an hour?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for an hour?", "intent": "physical_exercise", "category": "physical_outdoor", "energy": "medium", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for an hour?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for an hour?", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for an hour?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a nostalgic mood, what should I do for a couple of hours?", "intent": "memory", "category": "memory", "energy": "low", "social": "low"}
+{"query": "I'm in a curious mood, what should I do for a couple of hours?", "intent": "learn_something", "category": "learn", "energy": "low", "social": "low"}
+{"query": "I'm in a restless mood, what should I do for a couple of hours?", "intent": "creative_project", "category": "create", "energy": "medium", "social": "low"}
+{"query": "I'm in a peaceful mood, what should I do for a couple of hours?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}
+{"query": "I'm in a sociable mood, what should I do for a couple of hours?", "intent": "social_connection", "category": "connect", "energy": "medium", "social": "high"}
+{"query": "I'm in a reflective mood, what should I do for a couple of hours?", "intent": "relax_and_reflect", "category": "mindfulness_reflection", "energy": "low", "social": "low"}

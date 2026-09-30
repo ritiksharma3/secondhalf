@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+chroma_db/
+models/student_classifier/*.joblib
+models/student_classifier/*.pkl
+.pytest_cache/
+*.egg-info/
+data/user_data.json

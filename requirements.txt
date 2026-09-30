@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+langchain-huggingface
+langsmith
+chromadb
+sentence-transformers
+scikit-learn
+pydantic
+python-dotenv
+pandas
+pytest
