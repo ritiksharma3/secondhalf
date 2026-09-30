@@ -1,3 +1,7 @@
+# CPU-only PyTorch: the default Linux wheel bundles ~2 GB of CUDA libraries,
+# which cloud hosts (Streamlit Community Cloud) can't fit. No effect on Windows.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 streamlit
 langchain
 langchain-groq

@@ -11,9 +11,11 @@ All pipeline logic lives in src/recommendation/recommender.py; this file
 only collects input, calls get_recommendation(), and renders the result.
 """
 import json
+import os
 
 import streamlit as st
 
+from src.config import CHROMA_DIR, STUDENT_MODEL_DIR
 from src.data.data_loader import load_activities
 from src.distillation.student import StudentNotTrainedError
 from src.distillation.student import predict as student_predict
@@ -60,6 +62,22 @@ st.markdown(
 
 # ---------- startup ----------
 
+def ensure_artifacts() -> None:
+    """Build the Chroma index and student model if they're missing.
+
+    Both are git-ignored, so a fresh cloud deploy (e.g. Streamlit Community
+    Cloud) starts without them. Neither step needs an API key: ingestion
+    embeds the CSV locally and training uses the committed teacher labels.
+    """
+    if not (os.path.isdir(CHROMA_DIR) and os.listdir(CHROMA_DIR)):
+        from src.rag.ingestion import ingest
+        ingest()
+    model_files = ("category_pipeline.joblib", "intent_pipeline.joblib")
+    if not all(os.path.exists(os.path.join(STUDENT_MODEL_DIR, f)) for f in model_files):
+        from src.distillation.train_student import train
+        train()
+
+
 @st.cache_resource(show_spinner="Getting SecondHalf ready (first start only, ~30 seconds)…")
 def warm_up() -> bool:
     """Load the embedding model and student once per server process.
@@ -70,6 +88,7 @@ def warm_up() -> bool:
     swallowed - the real call reports them with a friendly message.
     """
     try:
+        ensure_artifacts()
         get_embedding_function().embed_query("warm up")
         student_predict("warm up")
     except Exception:  # noqa: BLE001
