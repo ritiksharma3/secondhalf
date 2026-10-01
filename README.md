@@ -5,6 +5,20 @@
 
 SecondHalf suggests **one** meaningful offline activity, suited to the person, their free time, their energy and their mood, and then asks them to put the phone away. It is a college mini-project that shows **Retrieval-Augmented Generation (RAG)**, **task-specific teacher-student knowledge distillation**, **structured LLM output**, and **LLM tracing** working together in one small, honest pipeline.
 
+## Notebook version (start here)
+
+The whole project is also available as **one Jupyter notebook: [`SecondHalf.ipynb`](SecondHalf.ipynb)**. It contains the dataset, embeddings, retrieval, teacher-student distillation with its evaluation, the grounded LLM recommendation, profile and history, sanity checks, and an interactive app (ipywidgets) that replaces the Streamlit screens. It is saved with its outputs, so it can be read without running anything.
+
+To run it:
+
+```bash
+pip install -r requirements.txt ipykernel ipywidgets matplotlib
+```
+
+Open `SecondHalf.ipynb` in Jupyter or VS Code, select this environment as the kernel, put `GROQ_API_KEY` in `.env`, and choose **Run All**. Without a key, everything except the final LLM step still runs.
+
+The notebook only needs the `data/` folder. It does not import `app.py` or `src/`; those remain as the multi-file Streamlit version described below.
+
 ---
 
 ## 1. Project overview

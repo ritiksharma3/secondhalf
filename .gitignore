@@ -9,3 +9,5 @@ models/student_classifier/*.pkl
 .pytest_cache/
 *.egg-info/
 data/user_data.json
+data/user_data_notebook.json
+.ipynb_checkpoints/
