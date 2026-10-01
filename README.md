@@ -1,4 +1,4 @@
-# SecondHalf
+# SecondHalf https://secondhalf.streamlit.app/
 
 **An AI-powered offline-life companion for retired adults.**
 *Spend less time scrolling. Spend more time living.*
